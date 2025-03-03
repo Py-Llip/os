@@ -58,6 +58,10 @@
  |||Q. Estrutura atômica e tabela periódica|Q. Ligações químicas e forças intermoleculares|Q. Estequiometria|Q. Revisão|Q. Reações químicas e balanceamento|Q. Solubilidade e soluções|Revisão||||
  |||F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
 
+ #### Divisão mensal
+ |1-4D|5-9D|10-14D|15-19D|20-24D|25-30D|
+ |----|----|------|------|------|------|
+ |1° Estudos|2° Estudos|3° Estudos|4° Estudos|5° Estudos|Revisão|
 ### Conclusões:
  - [ ] Jan
  - [ ] Fev
