@@ -45,21 +45,17 @@
  |||Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|
 
 ### Conclusões:
- [ ] Jan
-
- [ ] Fev
-
- [x] Mar
-
- [ ] Abr
- 
- [ ] Mai
- [ ] Jun
- [ ] Jul
- [ ] Ago
- [ ] Set
- [ ] Out 
- [ ] nov
- [ ] Dez
+ - [ ] Jan
+ - [ ] Fev
+ - [x] Mai
+ - [ ] Abr
+ - [ ] Mai
+ - [ ] Jun
+ - [ ] Jul
+ - [ ] Ago
+ - [ ] Set
+ - [ ] Out 
+ - [ ] nov
+ - [ ] Dez
 
 *Por: Fellipe Alves Brito*
