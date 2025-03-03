@@ -6,7 +6,7 @@
  - Passar no ITA
  - Passar no Enem
 
-## Tabelas
+## Tabelas Semanais
  - **ITA**: Instituto Tecinológico de Aeronáutica
  - **ENEM**: Exame Nacional do Ensino Médio
  - **RED**: Redação
@@ -29,12 +29,33 @@
 
   |Horários|Seg|Ter|Qua|Qui|Sex|
   |--------|---|---|---|---|---|
-  |1. 1.|LIV|ITA|LIV|LIV|LIV|
-  |1. 2.|RED|ENEM|RED|ITA|ITA|
-  |2. 1.|LIV|LIV|LIV|LIV|LIV|
-  |2. 2.|ENEM|RED|ENEM|ENEM|RED|
+  |1. 1.|ITA|ITA|ITA|ITA|ITA|
+  |1. 2.|RED|ITA|RED|ITA|ITA|
+  |2. 1.|ITA|ITA|ITA|ITA|ITA|
+  |2. 2.|ITA|RED|ITA|ITA|RED|
 
-## Tarefas
- 
+## Tabelas Mensais 2025
+ - **P**: Passado
+ - **Pr**: Presente
+ - **F**: Futuro
+
+ |Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|nov|Dez|
+ |---|---|---|---|---|---|---|---|---|---|---|---|
+ |P|P|Pr|F|F|F|F|F|F|F|F|F|
+ |||Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|Nada|
+
+### Conclusões:
+ [ ] Jan
+ [ ] Fev
+ [x] Mar
+ [ ] Abr
+ [ ] Mai
+ [ ] Jun
+ [ ] Jul
+ [ ] Ago
+ [ ] Set
+ [ ] Out 
+ [ ] nov
+ [ ] Dez
 
 *Por: Fellipe Alves Brito*
