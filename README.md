@@ -4,11 +4,11 @@
 ## Metas
  - Programador Sênior
  - Passar no ITA
- - Passar no Enem
+ - Passar no ENEM
 
 ## Tabelas Semanais
  - **ITA**: Instituto Tecinológico de Aeronáutica
- - **ENEM**: Exame Nacional do Ensino Médio
+ - **ITA**: Exame Nacional do Ensino Médio
  - **RED**: Redação
  - **PROG**: Programação
  - **LIV**: Livro
@@ -16,8 +16,8 @@
  ### Tabela Semanal
   |Seg|Ter|Qua|Qui|Sex|Sáb|Dom|
   |---|---|---|---|---|---|---|
-  |ITA|ITA|ITA|RED|ENEM|ITA|PROG|
-  |ITA|ENEM|PROG|ITA|ITA|ITA|ITA|
+  |ITA|ITA|ITA|RED|ITA|ITA|ITA|
+  |ITA|ITA|ITA|ITA|ITA|ITA|ITA|
 
  ### Tabela Escolar
   1. Horários Seguros
@@ -62,7 +62,18 @@
  |1-4D|5-9D|10-14D|15-19D|20-24D|25-30D|
  |----|----|------|------|------|------|
  |1° Estudos|2° Estudos|3° Estudos|4° Estudos|5° Estudos|Revisão|
-### Conclusões:
+
+ #### Divisão Diária 'Feiras'
+ |6:00am|12:00am|16:00pm|18:00pm|22:00pm|
+ |---|---|---|---|---|
+ |Despertando|1 Hora de estudo|1 Hora de estudo|4 Horas de Estudo|Soneca|
+
+ #### Divisão Diária 'Fim de semana'
+ |7:00am|8:00am|12:00am|18:00pm|21:00pm|22:00pm|
+ |---|---|---|---|---|---|
+ |Despertando|4 Horas de Estudo|5 Horas de estudo|Igreja|1 Hora de Estudo|Soneca|
+
+### Conclusões de Estudos Mensais:
  - [ ] Jan
  - [ ] Fev
  - [ ] Mar
