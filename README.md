@@ -64,12 +64,12 @@
  |1° Estudos|2° Estudos|3° Estudos|4° Estudos|5° Estudos|Revisão|
 
  #### Divisão Diária 'Feiras'
- |6:00am|12:00am|16:00pm|18:00pm|22:00pm|
+ |6:00am|12:00pm|16:00pm|18:00pm|22:00pm|
  |---|---|---|---|---|
  |Despertando|1 Hora de estudo|1 Hora de estudo|4 Horas de Estudo|Soneca|
 
  #### Divisão Diária 'Fim de semana'
- |7:00am|8:00am|12:00am|18:00pm|21:00pm|22:00pm|
+ |7:00am|8:00am|12:00pm|18:00pm|21:00pm|22:00pm|
  |---|---|---|---|---|---|
  |Despertando|4 Horas de Estudo|5 Horas de estudo|Igreja|1 Hora de Estudo|Soneca|
 
