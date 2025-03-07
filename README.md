@@ -42,21 +42,21 @@
  |Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|nov|Dez|
  |---|---|---|---|---|---|---|---|---|---|---|---|
  |P|P|Pr|F|F|F|F|F|F|F|F|F|
- |||Congruências|Equações|Geometria Plana|Princípio Fundamental da Contagem|Funções e Gráficos|Revisão|||||
- |||Teorema de Wilson|Inequações|Geometria Espacial|Permutações e Combinações|Funções do 1º e 2º grau|Revisão|||||
- |||Teorema de Fermat|Polinômios|Geometria Analítica|Binômio de Newton|Funções exponenciais e logarítmicas|Revisão|||||
- |||Crivo de Eratóstenes|Progressões Aritméticas e Geométricas|Trigonometria|Combinatória e Probabilidade|Estudo de gráficos e transformações|Revisão|||||
- |||Divisibilidade, MMC, MDC|Binômio de Newton|Geometria Avançada|Combinatória e Probabilidade|Estudo de gráficos e transformações|Revisão|||||
+ |||Python|Congruências|Equações|Geometria Plana|Princípio Fundamental da Contagem|Funções e Gráficos|Revisão||||
+ |||Python|Teorema de Wilson|Inequações|Geometria Espacial|Permutações e Combinações|Funções do 1º e 2º grau|Revisão||||
+ |||Python|Teorema de Fermat|Polinômios|Geometria Analítica|Binômio de Newton|Funções exponenciais e logarítmicas|Revisão||||
+ |||Python|Crivo de Eratóstenes|Progressões Aritméticas e Geométricas|Trigonometria|Combinatória e Probabilidade|Estudo de gráficos e transformações|Revisão||||
+ |||Python|Divisibilidade, MMC, MDC|Binômio de Newton|Geometria Avançada|Combinatória e Probabilidade|Estudo de gráficos e transformações|Revisão||||
 
  ### Física e Química
  |Jan|Fev|Mar|Abr|Mai|Jun|Jul|Ago|Set|Out|nov|Dez|
  |---|---|---|---|---|---|---|---|---|---|---|---|
  |P|P|Pr|F|F|F|F|F|F|F|F|F|
- |||F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
- |||Q. Estrutura atômica e tabela periódica|Q. Ligações químicas e forças intermoleculares|Q. Estequiometria|Q. Revisão|Q. Reações químicas e balanceamento|Q. Solubilidade e soluções|Revisão||||
- |||F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
- |||Q. Estrutura atômica e tabela periódica|Q. Ligações químicas e forças intermoleculares|Q. Estequiometria|Q. Revisão|Q. Reações químicas e balanceamento|Q. Solubilidade e soluções|Revisão||||
- |||F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
+ |||Python|F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
+ |||Python|Q. Estrutura atômica e tabela periódica|Q. Ligações químicas e forças intermoleculares|Q. Estequiometria|Q. Revisão|Q. Reações químicas e balanceamento|Q. Solubilidade e soluções|Revisão||||
+ |||Python|F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
+ |||Python|Q. Estrutura atômica e tabela periódica|Q. Ligações químicas e forças intermoleculares|Q. Estequiometria|Q. Revisão|Q. Reações químicas e balanceamento|Q. Solubilidade e soluções|Revisão||||
+ |||Python|F. Cinemática|F. Dinâmica|F. Trabalho e Energia|F. Estática e Hidrostática|F. Gravitação Universal|F. Oscilações e Ondas|Revisão||||
 
  #### Divisão mensal
  |1-4D|5-9D|10-14D|15-19D|20-24D|25-30D|
