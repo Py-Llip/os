@@ -1,5 +1,5 @@
 # OEDI 2026
- Organização Essêncial de Desenvolvimento Intelectual 2026
+ Organização Essencial de Desenvolvimento Intelectual 2026
 
 ---
 
@@ -36,12 +36,46 @@
 
  - Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.).
 
+ - Cursar **piano**/teclado.
+
 ## Objetivos
 ### Metas Rasas (curto prazo)
+ - Tocar qualquer música via **piano**.
 
+ - **Programador** full-stack sênior.
 
+ - **Game** que retorne remuneração.
+
+ - Adquirir ganhos a partir das **tecnologias** estudadas (Linguagem de programação, construção de site etc.).
+
+ - **Negócio** de tecnologia.
+
+ - **Desfrutar** da vida.
 
 ### Metas Altas (longo prazo)
+ - Tornar-se **versado** no ramo de **tecnologia**.
+
+ - Criar **máquina IA**.
+
+ - Fazer o **dinheiro** trabalhar por mim.
+
+ - Tornar-se **rico**.
+
+ - Ingressar numa universidade elite mediante **Enem**.
+
+ - Ingressar no **ITA**.
+
+ - Ingressar em **Harvard** (ou outras universidades de excelência no exterior).
+
+
+
+ - Ter **negócios** -nomeadamente empresa de tecnologia espacial- de sucesso.
+
+ - Tornar-se **investidor** bem-sucedido.
+
+ - Ser **sábio**.
+
+ - **Desfrutar** da vida.
 
 ## Tabelas Semanais
  - **ITA**: Instituto Tecinológico de Aeronáutica
