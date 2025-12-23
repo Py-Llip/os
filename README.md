@@ -1,14 +1,51 @@
-# os
- Organização Semanal dos meus estudos
+# OEDI 2026
+ Organização Essêncial de Desenvolvimento Intelectual 2026
 
-## Metas
- - Programador Sênior
- - Passar no ITA
- - Passar no ENEM
+---
+
+### Conclusões de Estudos Mensais:
+ - [ ] Jan
+ - [ ] Fev
+ - [ ] Mar
+ - [ ] Abr
+ - [ ] Mai
+ - [ ] Jun
+ - [ ] Jul
+ - [ ] Ago
+ - [ ] Set
+ - [ ] Out 
+ - [ ] nov
+ - [ ] Dez
+
+## Ação
+ - Ler 1 **livro** por mês (intercalar com livros de assunto do estudo atual).
+
+ - Desenvolver **sites** com HTML5, CSS3 e JS.
+
+ - Estudar física, química e matemática do **ITA**.
+
+ - Estudar **Finanças** Pessoais.
+
+ - Estudar conhecimentos diversos do **Enem**.
+
+ - Relembrar **Python** e aprender mais profundamente conhecimentos pormenorizados junto aos **módulos**, como Pygame, SQL, Numpy, Django, Requests, Frask, Pandas e Tkinter.
+
+ - Aprendendo o Pygame, codar o **game** que tanto imaginou.
+
+ - Abrir um **negócio** -sugestão: de tecnolgia-.
+
+ - Desenvolver **Inteligência Artificial** por meio do Python e temas além (probabilidade, matriz etc.).
+
+## Objetivos
+### Metas Rasas (curto prazo)
+
+
+
+### Metas Altas (longo prazo)
 
 ## Tabelas Semanais
  - **ITA**: Instituto Tecinológico de Aeronáutica
- - **ITA**: Exame Nacional do Ensino Médio
+ - **ENEM**: Exame Nacional do Ensino Médio
  - **RED**: Redação
  - **PROG**: Programação
  - **LIV**: Livro
@@ -72,19 +109,5 @@
  |7:00am|8:00am|12:00pm|18:00pm|21:00pm|22:00pm|
  |---|---|---|---|---|---|
  |Despertando|4 Horas de Estudo|5 Horas de estudo|Igreja|1 Hora de Estudo|Soneca|
-
-### Conclusões de Estudos Mensais:
- - [ ] Jan
- - [ ] Fev
- - [ ] Mar
- - [ ] Abr
- - [ ] Mai
- - [ ] Jun
- - [ ] Jul
- - [ ] Ago
- - [ ] Set
- - [ ] Out 
- - [ ] nov
- - [ ] Dez
 
 *Por: Fellipe Alves Brito*
