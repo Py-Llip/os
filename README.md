@@ -77,17 +77,45 @@
 
  - **Desfrutar** da vida.
 
-## Tabelas Semanais
+## Blocos de Estudo
  - **ITA**: Instituto Tecinológico de Aeronáutica
  - **ENEM**: Exame Nacional do Ensino Médio
- - **RED**: Redação
- - **PROG**: Programação
- - **LIV**: Livro
+ - **LV**: Livro
+ - **CC**: Ciências da Computação
+ - **GFP**: Gerenciamento de Finanças Pessoas
+ - **P**: Piano
+ - **IA**: Machine Learning
 
- ### Tabela Semanal
-  |Seg|Ter|Qua|Qui|Sex|Sáb|Dom|
+ "❌ Erro comum
+
+Estudar muitas matérias sem profundidade <br>
+ou focar em só uma até exaurir
+
+✅ Estratégia superior (mentalidade de gênio)
+
+1 foco central + 1 ou 2 satélites
+
+Exemplo:
+
+🎯 Foco principal: Matemática
+
+🛰️ Satélites: Física + Programação
+
+Por quê?
+
+O cérebro aprende melhor por contraste
+
+Evita fadiga mental
+
+Cria conexões profundas (estilo Leonardo)
+
+📌 Nunca estude 5 matérias difíceis no mesmo dia.
+Isso é dispersão, não genialidade."
+
+ ### Método Diário
+  |7:00|9:00|13:00|16:00|18:00|19:00|20:00|
   |---|---|---|---|---|---|---|
-  |ITA|ITA|ITA|RED|ITA|ITA|ITA|
+  |LV|Curso||RED|ITA|ITA|ITA|
   |ITA|ITA|ITA|ITA|ITA|ITA|ITA|
 
  ### Tabela Escolar
